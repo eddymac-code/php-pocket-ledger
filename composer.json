@@ -1,0 +1,19 @@
+{
+    "name": "eddy/php-pocket-ledger",
+    "description": "This is simply an app that helps track one's finances. Goes pack to core PHP!",
+    "type": "project",
+    "license": "AGPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "Eddy\\PhpPocketLedger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "eddymac-code",
+            "email": "eddymac11@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

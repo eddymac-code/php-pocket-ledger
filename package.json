@@ -1,0 +1,25 @@
+{
+  "name": "php-pocket-ledger",
+  "version": "1.0.0",
+  "description": "This is simply an app that helps track one's finances. Goes pack to core PHP, then some of the sweet resources!",
+  "keywords": [
+    "php",
+    "finance",
+    "ledger"
+  ],
+  "homepage": "https://github.com/eddymac-code/php-pocket-ledger#readme",
+  "bugs": {
+    "url": "https://github.com/eddymac-code/php-pocket-ledger/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddymac-code/php-pocket-ledger.git"
+  },
+  "license": "AGPL-3.0",
+  "author": "eddymac-code <eddymac11@outlook.com/odwin59@gmail.com>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
